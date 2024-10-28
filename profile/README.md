@@ -1,8 +1,6 @@
+DATALAB – Center for Digital Social Research is an interdisciplinary research center established in 2016 under the School of Communication and Culture, at Aarhus University in Denmark. The center focuses on citizens, collectives and populations in algorithmic and datafied societies, particularly in AI-powered algorithmic communication spaces, associated socio-technical actors, agentic patterns and effects, policy and regulatory frameworks (e.g. in AI chatbots and social media). DATALAB hosts fundamental and mission-driven research projects, theoretically based but empirical by nature and often including large-scale trace data. The projects utilize a plethora of different types of methods, often combining computational social science, experiments, surveys, digital ethnography, and interviews.   
 
-DATALAB – Center for Digital Social Research is an interdisciplinary research center at the School of Communication and Culture. The center is based on the vision that technology and data systems should maintain a focus on people and society, supporting the principles of democracy, human rights and ethics.
-
-
-All research and activities of the center is focusing on three contemporary challenges facing the digital society, that is the challenge of 1) preserving conditions for privacy, autonomy and trust among individuals and groups; 2) sustaining the provision of and access to high-quality content online to safeguard democracy; and 3) maintaining a suitable and meaningful balance between algorithmic and human control in connection with automation.
+DATALAB Researchers and projects share a vision and fundamental interest in creating novel methods and reinterpreting theories to better understand the social fabric in algorithmic and data-driven societies with a particular sensitivity towards principles of democracy, human rights, and ethics and changes therein.   
 
 
 
